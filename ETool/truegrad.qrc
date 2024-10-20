@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="truegrad">
+    <file>nezhno-gol.jpg</file>
+    <file>true_grad_t.jpg</file>
+    <file>true_grad.png</file>
+  </qresource>
+</RCC>

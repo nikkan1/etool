@@ -1,0 +1,8 @@
+Libraries must be installed for the program to work correctly:
+PyQT
+sqlite3
+SpeechRecognition
+gTTS
+playsound
+PyAudio
+googletrans 4.0.0rc1
